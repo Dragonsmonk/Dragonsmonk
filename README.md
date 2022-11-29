@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code a website for the first time.
 - 🌱 I’m currently learning HTML and CSS.
 - 💞️ I’m looking to collaborate on future web-based projects.
-- 📫 How to reach me: Telegram @PrinceofpainX
+- 📫 How to reach me: Telegram @Dragonsmonk
 
 <!---
 Dragonsmonk/Dragonsmonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
